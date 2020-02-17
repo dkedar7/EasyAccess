@@ -1,5 +1,10 @@
-# EasyAccess
-Easy to access notes for day-to-day data science tasks.
-Hypothesis: Complicated, regular data science tasks (e.g. Object Detection, Text-to-Speech, Speech Recognition etc.) can be solved using ready-made solutions. Where good ready-made solutions are absent (one key area I identified is Topic Modeling), we can make handy libraries for EasyAccess.
+# DS Toolbox
+It should be easy to access day-to-day data science tasks and tools.
+Hypothesis: Complicated, regular data science tasks, like data importing, basic data analysis, grouping-agregation, and visualization should have ready-made solutions. Where good ready-made solutions are absent (one key area is Topic Modeling), we can make handy libraries for easy access.
 
-Currently in progress: Topic Modeling library to combine the benefits of NLTK, scikit-learn, Gensim, BERT and XLNet embedding (from Higgingface PyTorch).
+Workback:
+- Segregate tasks into distinct categories
+- Starter code for Pandas profiler
+- Put starter Pandas code for grouping, aggregation and plotting (Pandas + Matplotlib)
+- NLP tasks (word embeddings, topic modeling)
+- Resume work on Topic Modeling library to combine the benefits of NLTK, scikit-learn, Gensim, BERT and XLNet embedding (from Higgingface PyTorch).
