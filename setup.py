@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name = 'dsbox',
@@ -11,7 +11,7 @@ setup(
     download_url = 'https://github.com/dkedar7/dsbox/archive/v0.1-alpha.tar.gz',
     keywords = ['Data Science', 'Machine Learning'],
     classifiers = [],
-    requires_install = ['scipy',
+    install_requires = ['scipy',
      'numpy', 
      'math', 
      'pandas', 
