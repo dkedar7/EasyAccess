@@ -8,7 +8,7 @@ setup(
     author = 'Kedar Dabhadkar',
     author_email = 'kdabhadk@gmail.com',
     url = 'https://github.com/dkedar7/dsbox',
-    download_url = 'https://github.com/dkedar7/dsbox/archive/v0.0-alpha.tar.gz',
+    download_url = 'https://github.com/dkedar7/dsbox/archive/v0.1-alpha.tar.gz',
     keywords = ['Data Science', 'Machine Learning'],
     classifiers = [],
     requires_install = ['scipy',
