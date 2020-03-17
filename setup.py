@@ -13,7 +13,6 @@ setup(
     classifiers = [],
     install_requires = ['scipy',
      'numpy', 
-     'math', 
      'pandas', 
      'matplotlib', 
      'seaborn', 
