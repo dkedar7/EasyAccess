@@ -11,3 +11,13 @@ sns.set(style=("whitegrid"))
 
 from time
 from tqdm import tqdm
+
+from pandas_profiling import ProfileReport
+
+def create_report(df, filename=None):
+    profile = ProfileReport(df, title='Pandas Profiling Report')
+
+    if filename:
+        profile.to_file(output_file = filename)
+    else:
+        return profile.to_notebook_iframe()
