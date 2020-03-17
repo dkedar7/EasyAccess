@@ -3,3 +3,5 @@ setup.cfg
 setup.py
 dsbox/__init__.py
 dsbox/dalibs.py
+include *.txt
+recursive-include examples *.txt *.py
