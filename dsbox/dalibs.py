@@ -9,5 +9,5 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(style=("whitegrid"))
 
-from time import time
+from time
 from tqdm import tqdm
