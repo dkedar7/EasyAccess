@@ -1,4 +1,4 @@
-# Data Science Toolbox
+# Data Science Toolbox [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 It should be easier than it is to access common data analysis, machine learning and statistical tasks and tools.
 
 Hypothesis: Repetitive, regular data science tasks, like data importing, basic data analysis, grouping-agregation, and visualization should have ready-made solutions. Where good ready-made solutions are absent (one key area is Topic Modeling), we can make handy libraries for easy access.
