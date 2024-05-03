@@ -37,7 +37,7 @@ setup(
 'pandas==0.25.3',
 'matplotlib==3.2.0',
 'numpy>=1.16.0',
-'tqdm==4.43.0',
+'tqdm==4.66.3',
 'seaborn',
 'pandas_profiler']
 )
